@@ -3,3 +3,4 @@ another line
 O, shit
 
 Hello, World!
+Hello, git rebase!
